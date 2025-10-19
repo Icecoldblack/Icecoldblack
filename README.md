@@ -10,7 +10,7 @@ Aspiring Software Engineer passionate about building impactful, user-driven appl
 
 ## 🧠 Skills
 
-**Languages:** Java, Python, JavaScript, HTML, CSS, R, JSON, Flask, React  
+**Languages:** Java, Python, JavaScript, HTML, CSS, R, JSON
 **Tools & Frameworks:** Git, VS Code, GitHub, Streamlit, SQL, Vite, Chart.js  
 
 ---
