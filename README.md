@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uyiosa Nehikhuere  
 **Computer Science @ Georgia State University (Class of 2027)**  
-Aspiring Software Engineer passionate about building impactful, user-driven applications with a focus on performance, usability, and clean design.
+Aspiring Software Engineer with a focus in Full-Stack passionate about building impactful, user-driven applications with a focus on performance, usability, and clean design.
 
 📫 **Email:** unehikhuere@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/uyiosa-nehikhuere](https://www.linkedin.com/in/uyiosa-nehikhuere)  
