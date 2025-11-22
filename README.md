@@ -25,10 +25,15 @@ Aspiring Software Engineer passionate about building impactful, user-driven appl
 - Designed and led a **community engagement project** that increased park usage by **60%** and event bookings by **25%**.  
 - Organized events, handled resident concerns, and promoted inclusion within the campus community.
 
-### 🎓 Summer Conferences | Conference Assistant *(May 2024 – Aug 2025)*  
-- Coordinated logistics for 6+ venues, including room scheduling and signage.  
-- Managed front desk operations and digital check-in systems for visiting conference guests.
+### **Speech Mate | Software Engineering (Hackathon)**  
+*November 2025 – November 2025*  
+- Built the entire frontend of **SpeechMate.tech** using **React**, **Vite**, **TypeScript**, and **CSS**, creating a fast, responsive, and user-friendly interface that lets users record, analyze, and improve their public speaking with real-time AI feedback.  
+- Integrated **Gemini** and **ElevenLabs** APIs to generate personalized speech feedback, automatic speech creation, and interactive dashboards, enhancing the experience and showcasing the potential of AI in communication training.
 
+### **PantherWatch-Frontend | Software Engineering (Independent Project)**  
+*August 2025 – Present*  
+- Developed the **React** and **Vite** frontend for PantherWatch, creating responsive, modular UI components that consume backend APIs to deliver real-time seat availability and course tracking.  
+- Incorporated **Supabase Google OAuth** authentication into the web client, enabling secure login and smooth user access while coordinating seamlessly with backend validation.
 ---
 
 ## 💻 Projects
