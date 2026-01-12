@@ -1,38 +1,38 @@
 <div align="center">
 
-  # Hi, I'm Uyiosa Nehikhuere <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/People/Hand/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+  # Hi, I'm Uyiosa Nehikhuere 
 
-  ### Computer Science Student @ Georgia State University (Class of 2027)
+  ### Computer Science Student @ Georgia State University (Class of 2027)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-End+Engineer;Building+EasePath;Cloud+%26+SRE+Enthusiast;Solving+Complex+Problems" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-End+Engineer;Building+EasePath;Cloud+%26+SRE+Enthusiast;Solving+Complex+Problems" alt="Typing SVG" />
+  </a>
 
-  <br/>
+  <br/>
 
-  <a href="https://www.linkedin.com/in/uyiosa-nehikhuere-16406328b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:unehikhuere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/uyiosa-nehikhuere-16406328b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:unehikhuere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Smilies/Face%20With%20Monocle.png" alt="Monocle Face" width="25" height="25" /> About Me
+### 🧐 About Me
 
 I'm a **Computer Science major at Georgia State University** focused on building practical, scalable systems. I have a strong passion for **Site Reliability Engineering (SRE)**, **Unix/C systems**, and creating seamless frontend experiences.
 
 I tend to ask:
-* *How can I fix this issue?*
-* *What can I do to make life easier?*
-* *How to work less but get the same result?*
+* *How can i fix this issue*
+* *what can i do to make life easier?*
+* *how to work less but get the same result*
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Favorite Project: EasePath
+### 🏆 Favorite Project: EasePath
 
 **EasePath** is a project I am currently developing to solve the problem of repetitive data entry in workflows (Auto-filler/Auto-applier). It bridges the gap between complex automation and a simple user interface.
 
@@ -41,10 +41,10 @@ I tend to ask:
 * **Focus:** Solving the "copy-paste" fatigue by automating form completion with intelligent logic.
 
 > Focus: "Make it work, make it right, make it fast."
+>
+> ---
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> Featured Project: SpeechMate
+### 🎤 Featured Project: SpeechMate
 
 **SpeechMate** is an AI-powered application designed to provide real-time feedback on speech and presentation skills. Born from a "Rapid Innovation" hackathon environment, it showcases the power of integrating cutting-edge AI with modern web technologies.
 
@@ -56,7 +56,7 @@ I tend to ask:
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
+### 💻 Tech Stack
 
 | **Frontend** | **Backend & Systems** | **Tools & Cloud** |
 | :--- | :--- | :--- |
@@ -65,13 +65,13 @@ I tend to ask:
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Icecoldblack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icecoldblack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icecoldblack&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icecoldblack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icecoldblack&layout=compact&theme=tokyonight"/>
 </a>
 
 <br/>
@@ -79,3 +79,5 @@ I tend to ask:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icecoldblack&theme=tokyonight" alt="Icecoldblack's GitHub Streak" />
 
 </div>
+
+can you make the emjois into svg icons
