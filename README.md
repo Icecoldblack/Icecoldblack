@@ -1,76 +1,17 @@
-# 👋 Hi, I'm Uyiosa Nehikhuere  
-**Computer Science @ Georgia State University (Class of 2027)**  
-Aspiring Software Engineer with a focus in Full-Stack passionate about building impactful, user-driven applications with a focus on performance, usability, and clean design.
+# 💫 About Me:
+Hi, I'm Uyiosa Nehikhuere<br>Computer Science @ Georgia State University (Class of 2027)<br>I'm Currently working on EasePath.
 
-📫 **Email:** unehikhuere@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/uyiosa-nehikhuere](https://www.linkedin.com/in/uyiosa-nehikhuere)  
-💻 **GitHub:** [github.com/Icecoldblack](https://github.com/Icecoldblack)
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyiosa-nehikhuere-16406328b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unehikhuere@gmail.com) 
 
-## 🧠 Skills
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=icecoldblack&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=icecoldblack&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=icecoldblack&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-**Languages:** Java, Python, JavaScript, HTML, CSS, R, JSON
-**Tools & Frameworks:** Git, VS Code, GitHub, Streamlit, SQL, Vite, Chart.js  
 
----
 
-## 💼 Experience
-
-### 🧾 FactSet | Software Engineering Extern *(May 2025)*  
-- Implemented **recommendation algorithms** that generated personalized budgeting insights for 1,000+ simulated financial profiles.  
-- Collaborated in a **3-person engineering team** to design and deploy an AI assistant bot, projected to reduce financial planning time by **25%**.
-
-### 🏢 Residential Assistant | Georgia State University *(Aug 2024 – Present)*  
-- Designed and led a **community engagement project** that increased park usage by **60%** and event bookings by **25%**.  
-- Organized events, handled resident concerns, and promoted inclusion within the campus community.
-
-### **Speech Mate | Software Engineering (Hackathon)**  
-*November 2025 – November 2025*  
-- Built the entire frontend of **SpeechMate.tech** using **React**, **Vite**, **TypeScript**, and **CSS**, creating a fast, responsive, and user-friendly interface that lets users record, analyze, and improve their public speaking with real-time AI feedback.  
-- Integrated **Gemini** and **ElevenLabs** APIs to generate personalized speech feedback, automatic speech creation, and interactive dashboards, enhancing the experience and showcasing the potential of AI in communication training.
-
-### **PantherWatch-Frontend | Software Engineering (Independent Project)**  
-*August 2025 – Present*  
-- Developed the **React** and **Vite** frontend for PantherWatch, creating responsive, modular UI components that consume backend APIs to deliver real-time seat availability and course tracking.  
-- Incorporated **Supabase Google OAuth** authentication into the web client, enabling secure login and smooth user access while coordinating seamlessly with backend validation.
----
-
-## 💻 Projects
-
-### **PantherWatch – Course Planning Web App**  
-*React, Vite, Supabase, Google OAuth*  
-- Built the **frontend** for a course-tracking web app that displays real-time seat availability for Georgia State classes.  
-- Integrated secure **Google OAuth authentication** through Supabase for seamless login and account management.  
-
-### **Smart Shopper – Price Comparison Web App**  
-*HTML, CSS, JavaScript, Chart.js*  
-- Designed a responsive app allowing users to **compare product prices** across multiple retailers in real time.  
-- Visualized **$500+ in historical price data** using Chart.js, helping users identify the best purchase windows.  
-
-### **Snake Game – Desktop Application**  
-*Java*  
-- Developed a classic Snake game with added mechanics like **poison apples** and **timed goals** for dynamic gameplay.  
-- Implemented **collision detection** and a **real-time scoring system** to enhance replayability.  
-
----
-
-## 🚀 Leadership & Involvement
-
-- **National Society of Black Engineers (NSBE)** – Active Member (2025 – Present)  
-- Organized and participated in events that promote diversity, inclusion, and professional growth in STEM.  
-
----
-
-## 📚 Coursework
-
-- Data Structures & Algorithms  
-- Calculus II  
-- Discrete Mathematics  
-
----
-
-## 🌟 Interests
-
-Building tools that make people’s lives easier — whether that’s simplifying financial planning, streamlining academic success, or improving digital accessibility.  
-Always exploring **AI**, **data visualization**, and **web application design**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
