@@ -67,13 +67,12 @@ I tend to ask:
 
 <div align="center">
 
-<a href="https://github.com/Icecoldblack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icecoldblack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icecoldblack&layout=compact&theme=tokyonight"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icecoldblack&show_icons=true&theme=tokyonight)](https://github.com/Icecoldblack)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icecoldblack&layout=compact&theme=tokyonight)](https://github.com/Icecoldblack)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Icecoldblack&theme=tokyonight" alt="Icecoldblack's GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Icecoldblack&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
