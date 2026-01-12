@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Uyiosa Nehikhuere<br>Computer Science @ Georgia State University (Class of 2027)<br>I'm Currently working on EasePath.
+<h1>Hi, I'm Uyiosa Nehikhuere</h1><br>Computer Science @ Georgia State University (Class of 2027)<br>I'm Currently working on EasePath.
 
 
 ## 🌐 Socials:
