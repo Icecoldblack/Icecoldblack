@@ -1,21 +1,21 @@
 <div align="center">
 
-  # Hi, I'm Uyiosa Nehikhuere 
+  # Hi, I'm Uyiosa Nehikhuere 
 
-  ### Computer Science Student @ Georgia State University (Class of 2027)
+  ### Computer Science Student @ Georgia State University (Class of 2027)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-End+Engineer;Building+EasePath;Cloud+%26+SRE+Enthusiast;Solving+Complex+Problems" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-End+Engineer;Building+EasePath;Cloud+%26+SRE+Enthusiast;Solving+Complex+Problems" alt="Typing SVG" />
+  </a>
 
-  <br/>
+  <br/>
 
-  <a href="https://www.linkedin.com/in/uyiosa-nehikhuere-16406328b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:unehikhuere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/uyiosa-nehikhuere-16406328b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:unehikhuere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
 
@@ -23,13 +23,12 @@
 
 ### 🧐 About Me
 
-I'm a **Computer Science major at Georgia State University** focused on building practical, scalable systems. I have a strong passion for **Site Reliability Engineering (SRE)**, **Unix/C systems**, and creating seamless frontend experiences.
+I'm a **Computer Science major at Georgia State University** focused on building practical, scalable systems. I have a strong passion for **Site Reliability Engineering (SRE)**, and creating seamless experiences.
 
 I tend to ask:
 * *How can i fix this issue*
 * *what can i do to make life easier?*
 * *how to work less but get the same result*
-
 ---
 
 ### 🏆 Favorite Project: EasePath
@@ -41,8 +40,8 @@ I tend to ask:
 * **Focus:** Solving the "copy-paste" fatigue by automating form completion with intelligent logic.
 
 > Focus: "Make it work, make it right, make it fast."
->
-> ---
+
+---
 
 ### 🎤 Featured Project: SpeechMate
 
@@ -53,7 +52,6 @@ I tend to ask:
 * **Real-Time Performance:** Engineered for low latency to give users immediate results as they practice.
 
 > Focus: "Rapid innovation meeting practical application."
-
 ---
 
 ### 💻 Tech Stack
@@ -70,8 +68,8 @@ I tend to ask:
 <div align="center">
 
 <a href="https://github.com/Icecoldblack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icecoldblack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icecoldblack&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icecoldblack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icecoldblack&layout=compact&theme=tokyonight"/>
 </a>
 
 <br/>
@@ -79,5 +77,3 @@ I tend to ask:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icecoldblack&theme=tokyonight" alt="Icecoldblack's GitHub Streak" />
 
 </div>
-
-can you make the emjois into svg icons
