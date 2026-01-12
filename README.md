@@ -5,7 +5,7 @@
   ### Computer Science Student @ Georgia State University (Class of 2027)
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-End+Engineer;Building+EasePath;Cloud+%26+SRE+Enthusiast;Solving+Complex+Problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-End+Engineer;Building+EasePath;Cloud+%26+Software+Engineering;Solving+Complex+Problems" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -23,7 +23,7 @@
 
 ### 🧐 About Me
 
-I'm a **Computer Science major at Georgia State University** focused on building practical, scalable systems. I have a strong passion for **Site Reliability Engineering (SRE)**, and creating seamless experiences.
+I'm a **Computer Science major at Georgia State University** focused on building practical, scalable systems. I have a strong passion for **Back End Engineering (SWE)**, and creating seamless experiences.
 
 I tend to ask:
 * *How can i fix this issue*
