@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Uyiosa Nehikhuere 
+  # Hi, I'm Uyiosa Nehikhuere <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/People/Hand/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
   ### Computer Science Student @ Georgia State University (Class of 2027)
 
@@ -21,18 +21,18 @@
 
 ---
 
-### 🧐 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Smilies/Face%20With%20Monocle.png" alt="Monocle Face" width="25" height="25" /> About Me
 
 I'm a **Computer Science major at Georgia State University** focused on building practical, scalable systems. I have a strong passion for **Site Reliability Engineering (SRE)**, **Unix/C systems**, and creating seamless frontend experiences.
 
 I tend to ask:
-* *How can i fix this issue*
-* *what can i do to make life easier?*
-* *how to work less but get the same result*
+* *How can I fix this issue?*
+* *What can I do to make life easier?*
+* *How to work less but get the same result?*
 
 ---
 
-### 🏆 Favorite Project: EasePath
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Favorite Project: EasePath
 
 **EasePath** is a project I am currently developing to solve the problem of repetitive data entry in workflows (Auto-filler/Auto-applier). It bridges the gap between complex automation and a simple user interface.
 
@@ -41,10 +41,10 @@ I tend to ask:
 * **Focus:** Solving the "copy-paste" fatigue by automating form completion with intelligent logic.
 
 > Focus: "Make it work, make it right, make it fast."
->
-> ---
 
-### 🎤 Featured Project: SpeechMate
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Microphone.png" alt="Microphone" width="25" height="25" /> Featured Project: SpeechMate
 
 **SpeechMate** is an AI-powered application designed to provide real-time feedback on speech and presentation skills. Born from a "Rapid Innovation" hackathon environment, it showcases the power of integrating cutting-edge AI with modern web technologies.
 
@@ -56,7 +56,7 @@ I tend to ask:
 
 ---
 
-### 💻 Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
 
 | **Frontend** | **Backend & Systems** | **Tools & Cloud** |
 | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ I tend to ask:
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
 
