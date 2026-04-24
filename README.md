@@ -29,10 +29,11 @@
   </a>
 
 </div>
----
-### 🎵 My Top Artists
-![My Top Artists](https://novatorem-sandy-delta-58.vercel.app/top-artists?time_range=medium_term&limit=3)
 
+---
+
+### 🎵 My Top Artists
+<img src="https://novatorem-sandy-delta-58.vercel.app/top-artists?time_range=medium_term&limit=3" alt="My Top Artists" />
 
 ---
 
