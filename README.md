@@ -63,6 +63,15 @@ I tend to ask:
 
 ---
 
+### 🚀 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
+  <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
+</picture>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Icecoldblack&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Icecoldblack&theme=vue-dark&hide_border=false)<br/>
