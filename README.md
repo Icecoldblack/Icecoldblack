@@ -32,7 +32,7 @@
 
 ---
 
-### 🎵 My Spotify Playlist hits
+<div align = "center">### 🎵 My Spotify Playlist hits</div>
 
 <div align="center">
   <b>Now Playing</b><br>
