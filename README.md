@@ -35,18 +35,13 @@
 ### 🎵 Spotify Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>Now Playing</b><br>
-        <img src="https://novatorem-sandy-delta-58.vercel.app/?show_status=true" alt="Spotify Now Playing" />
-      </td>
-      <td align="center">
-        <b>Top Artists (This Month)</b><br>
-        <img src="https://novatorem-sandy-delta-58.vercel.app/top-artists?time_range=short_term&limit=3" alt="My Top Artists" />
-      </td>
-    </tr>
-  </table>
+  <b>Now Playing</b><br>
+  <img src="https://novatorem-sandy-delta-58.vercel.app/?show_status=true" alt="Spotify Now Playing" width="600" />
+  
+  <br><br>
+
+  <b>Top Artists (This Month)</b><br>
+  <img src="https://novatorem-sandy-delta-58.vercel.app/top-artists?time_range=short_term&limit=3" alt="My Top Artists" width="400" />
 </div>
 
 ---
