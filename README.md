@@ -1,7 +1,10 @@
 <div align="center">
 
-  # Hi, I'm Uyiosa Nehikhuere 
-  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/images/marquee.svg">
+</p>
+
+
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/pacman-contribution-graph.svg">
