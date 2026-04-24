@@ -29,6 +29,9 @@
   </a>
 
 </div>
+---
+### 🎵 My Top Artists Right Now
+[![My Top Artists](https://novatorem-sandy-delta-58.vercel.app/top-artists)](https://open.spotify.com/user/2zupblk0qp6s39ra70gkk1os9)
 
 ---
 
