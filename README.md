@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi, I'm Uyiosa Nehikhuere 
-  ---
+  
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/pacman-contribution-graph.svg">
