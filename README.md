@@ -3,10 +3,11 @@
   # Hi, I'm Uyiosa Nehikhuere 
   
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/pacman-contribution-graph.svg">
 </picture>
+
   ---
 
   ### Computer Science Student @ Georgia State University (Class of 2027)
