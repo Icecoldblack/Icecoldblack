@@ -30,8 +30,9 @@
 
 </div>
 ---
-### 🎵 My Top Artists Right Now
-[![My Top Artists](https://novatorem-sandy-delta-58.vercel.app/top-artists)](https://open.spotify.com/user/2zupblk0qp6s39ra70gkk1os9)
+### 🎵 My Top Artists
+[![My Top Artists](https://novatorem-sandy-delta-58.vercel.app/top-artists?time_range=medium_term&limit=3)](https://open.spotify.com/user/Icecoldblack)
+
 
 ---
 
@@ -81,7 +82,8 @@ I tend to ask:
 ![](https://nirzak-streak-stats.vercel.app/?user=Icecoldblack&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Icecoldblack&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+
+
 [![](https://visitcount.itsvg.in/api?id=Icecoldblack&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
