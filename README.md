@@ -4,9 +4,9 @@
   ---
 ### 🚀 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
-  <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/game.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/game.gif">
+  <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/main/game.gif">
 </picture>
   ---
 
