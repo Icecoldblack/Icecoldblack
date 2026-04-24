@@ -1,6 +1,14 @@
 <div align="center">
 
   # Hi, I'm Uyiosa Nehikhuere 
+  ---
+### 🚀 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
+  <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
+</picture>
+  ---
 
   ### Computer Science Student @ Georgia State University (Class of 2027)
 
@@ -61,16 +69,7 @@ I tend to ask:
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) |
 
----
 
-### 🚀 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
-  <img alt="Space Shooter Game" src="https://raw.githubusercontent.com/Icecoldblack/Icecoldblack/output/game.gif">
-</picture>
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Icecoldblack&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
