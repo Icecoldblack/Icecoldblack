@@ -1,4 +1,4 @@
-name: Update Space Shooter Game
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -9,12 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  update-game:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: czl9707/gh-space-shooter@v1
+      - uses: abozanona/pacman-contribution-graph@main
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: game.gif
+          github_user_name: Icecoldblack
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update pacman contribution graph
+          branch: main
