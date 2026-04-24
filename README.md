@@ -31,7 +31,7 @@
 </div>
 ---
 ### 🎵 My Top Artists
-[![My Top Artists](https://novatorem-sandy-delta-58.vercel.app/top-artists?time_range=medium_term&limit=3)](https://open.spotify.com/user/Icecoldblack)
+![My Top Artists](https://novatorem-sandy-delta-58.vercel.app/top-artists?time_range=medium_term&limit=3)
 
 
 ---
