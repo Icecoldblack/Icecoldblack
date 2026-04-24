@@ -32,7 +32,7 @@
 
 ---
 
-### 🎵 Spotify Activity
+### 🎵 My Spotify Playlist hits
 
 <div align="center">
   <b>Now Playing</b><br>
@@ -46,7 +46,7 @@
 
 ---
 
-### 🧐 About Me
+###  About Me
 
 I'm a **Computer Science major at Georgia State University** focused on building practical, scalable systems. I have a strong passion for **Back End Engineering (SWE)**, and creating seamless experiences.
 
