@@ -32,7 +32,7 @@
 
 ---
 
-<div align = "center"> <h1>🎵 My Spotify Playlist hit </h1>s</div>
+<div align = "center"> <h1>🎵 My Spotify Playlist hit </h1></div>
 
 <div align="center">
   <b>Now Playing</b><br>
